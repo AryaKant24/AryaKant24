@@ -23,6 +23,6 @@ I am a student pursuing a Bachelor of Technology in Information Technology at th
 * Systems and Usable Security (National Programme on Technology Enhanced Learning)
 
 ## ⚡ Outside of coding, you can find me:
-* Writing my own murder mystery stories.
-* Performing with the college Dhol Tasha group.
-* Hitting the pull-up bar to build my biceps!
+* Playing some sport
+* Performing with my Dhol Tasha group.
+* Having fun with the team at TedX PICT!
