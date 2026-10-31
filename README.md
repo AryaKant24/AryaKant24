@@ -2,6 +2,8 @@
 
 I am a student pursuing a Bachelor of Technology in Information Technology at the Pune Institute of Computer Technology (Class of 2028). I am deeply interested in Data Science, Machine Learning, and building software that solves real-world problems.
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 ## 🔭 What I am currently working on
 * Serving as a Research and Development Intern, building and upscaling a camera-based attendance system pipeline for college departments.
 * Developing a hybrid model for potato crop disease prediction that integrates weather data with an image classifier.
