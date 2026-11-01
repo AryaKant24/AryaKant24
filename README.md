@@ -16,8 +16,6 @@
 
 ## 🌌 About Me
 
-I’m pursuing a **Bachelor of Technology in Information Technology** at the **Pune Institute of Computer Technology**, graduating in **2028**.
-
 I’m interested in **Language Models, Agentic AI and building software that solves real-world problems**. I like exploring how technology can make systems more useful, accessible, and intelligent.
 
 ---
