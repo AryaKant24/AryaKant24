@@ -44,17 +44,6 @@ I’m interested in **Language Models, Agentic AI and building software that sol
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
 
-## 📡 GitHub Transmission
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=FFE81F&icon_color=FFE81F" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=FFE81F" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true&ring=FFE81F&fire=FFE81F&currStreakLabel=FFE81F" alt="GitHub contribution streak" />
-</p>
-
 ---
 
 <p align="center">
