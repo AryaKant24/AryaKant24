@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hello there! I’m Aarya Kanitkar ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=FFE81F&center=true&vCenter=true&width=650&lines=Student+%40+PICT;Exploring+Data+Science+%26+Machine+Learning;Building+software+for+real-world+problems" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=FFE81F&center=true&vCenter=true&width=650&lines=Exploring+LLMs+%26+Agentic+AI;Building+software+for+real-world+problems" alt="Typing introduction" />
 </p>
 
 <p align="center">
