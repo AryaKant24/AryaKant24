@@ -18,22 +18,15 @@
 
 I’m pursuing a **Bachelor of Technology in Information Technology** at the **Pune Institute of Computer Technology**, graduating in **2028**.
 
-I’m interested in **Data Science, Machine Learning, and building software that solves real-world problems**. I like exploring how technology can make systems more useful, accessible, and intelligent.
+I’m interested in **Language Models, Agentic AI and building software that solves real-world problems**. I like exploring how technology can make systems more useful, accessible, and intelligent.
 
 ---
 
 ## 🚀 Current Missions
 
 - 🔬 **Research and Development Intern** — building and scaling a camera-based attendance system for college departments.
-- 🥔 Developing a hybrid potato crop disease prediction model that combines weather data with image classification.
+- 🔊 Developing a voice-first PDF reader featuring an AI assistant, designed for the visually impaired.
 - ⚛️ Building a virtual lab for the Quantum Physics Department.
-- 🐍 Teaching Python fundamentals to first-year students through the ACM Student Chapter.
-
-## 🛰️ Learning in the Outer Rim
-
-- Advanced Data Structures and Algorithms in C++
-- Database Management Systems, SQL, and MongoDB
-- AI and Machine Learning applications in financial systems and Geographic Information Systems
 
 ## 🛠️ My Toolkit
 
@@ -41,14 +34,15 @@ I’m interested in **Data Science, Machine Learning, and building software that
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
-
-## 🏅 Jedi Archives
-
-- **Supervised Machine Learning** — Stanford University
-- **Large Language Models with Python** — IIT Bombay
-- **Systems and Usable Security** — NPTEL
 
 ## 📡 GitHub Transmission
 
@@ -60,12 +54,6 @@ I’m interested in **Data Science, Machine Learning, and building software that
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true&ring=FFE81F&fire=FFE81F&currStreakLabel=FFE81F" alt="GitHub contribution streak" />
 </p>
-
-## 🌠 Beyond the Code
-
-- 🏏 Playing sports
-- 🥁 Performing with my Dhol Tasha group
-- 🎤 Having fun with the TEDxPICT team
 
 ---
 
